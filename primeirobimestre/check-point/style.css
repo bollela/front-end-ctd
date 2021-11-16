@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,400&family=Yuji+Mai&display=swap');
+
+*{  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-attachment: fixed;
+    background-image: url('https://ubes.org.br/ubesnovo/wp-content/uploads/2017/10/goianiaconubes2-719x480.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    background-color :darkgrey;
+    color: red;
+    margin:0%;
+    text-align: center;
+    padding: 10px;
+}
+
+article {   
+    height: 1000px;
+    margin: 0%;
+    text-align: center;
+
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0%;
+    color:  red;    
+    font-size: 20px;
+    text-align: center;
+
+}
+H2 {
+    font-family: 'Yuji Mai', serif;
+    color:blueviolet;
+    font-size: 25px;
+    text-align: center;
+}
+
+.redeSocial {
+    text-align: center;
+}
+
+.redeSocial img {
+    padding: 20px;
+}
+
