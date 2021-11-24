@@ -1,0 +1,12 @@
+.image {
+    background-image: url('https://3.bp.blogspot.com/-j4l0lMePSfY/VOzXfr3vlrI/AAAAAAAAWpI/NWJTQupZRG4/s1600/IMG_20150222_222339.jpg');
+    height: 720px;
+    width: 1280px;
+    text-align: center;
+    padding-top: 300px;
+}
+.image button {
+    padding: 15px 10px;
+    border-radius: 15px;
+
+}

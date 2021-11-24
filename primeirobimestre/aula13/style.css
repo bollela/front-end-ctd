@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 * {
 
@@ -31,3 +32,103 @@ main {
 @keyframes ghost {
     
 }
+=======
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.google.com/icons?selected=Material+Icons+Outlined:assignment_returned&icon.query=whatsapp');
+
+.image {
+    background-image: url('https://conteudo.imguol.com.br/c/entretenimento/9d/2020/05/26/hamburguer-recheado-na-churrasqueira-1590524861807_v2_4x3.jpg');
+    text-align: center;
+    background-size: cover;
+    height: 1000px;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+    color: red;
+}
+
+.Caldos {
+    position: absolute;
+    left: 500px;
+    top: 0px;
+}
+
+.Bebidas {
+    position: absolute;
+    left: 800px;
+    top: 0px;
+}
+
+.Hamburguer {
+    position: absolute;
+    left: 200px;
+    top: 0px;
+}
+
+.squareProduct {
+    height: 200px;
+    width: 150px;
+    color:blue;
+    background-position: center;
+    background-size: cover;
+}
+
+.xTudo {
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    background-image: url('https://t2.uc.ltmcdn.com/pt/images/9/9/5/como_fazer_hamburguer_no_microondas_24599_orig.jpg');
+}
+
+.Caldo {
+    position: absolute;
+    left: 500px;
+    top: 200px;
+    background-image: url('https://media-cdn.tripadvisor.com/media/photo-s/1c/f7/e8/20/suculentos-pedacos-de.jpg');
+}
+
+.Coca {
+    position: absolute;
+    left: 800px;
+    top: 200px;
+    background-image: url('https://static.distribuidoracaue.com.br/media/catalog/product/cache/1/thumbnail/9df78eab33525d08d6e5fb8d27136e95/r/e/refrigerante-coca-cola-2-litros.jpg?v=1');
+    background-size: cover;
+}
+
+.botao01{
+    
+    background-color: green;
+    border-radius: 0px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 5px 15px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    background-position: center;
+    background-size: cover;
+   }
+
+   .img {
+       width: 65px;
+       position: fixed;
+       bottom: 0px;
+       right: 0px;
+       padding: 10px;
+
+   }
+   
+
+
+
+
+>>>>>>> 2fe999f8e2c752dea7365045a85a36457b721276

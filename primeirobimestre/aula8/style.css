@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap'); 
+
+body {
+    background-color: #131313;
+}
+
+h1 {
+    color: white;
+    font-family: 'roboto', sans-serif;
+}
+
+.media-picture {
+    height: 400px;
+    background-image: url("https://compass-ssl.xbox.com/assets/36/0d/360deb81-49b0-4bff-ad02-8174dff5041c.jpg?n=Marvel-Avengers_GLP-Page-Hero-1084_1920x1080_03.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+
+.review-score {
+    color: white;
+    background-color: #e6bd09;
+    padding: 12px;
+}
+
+h2 {
+    color: steelblue;
+}
+
+p {
+    font-family: 'roboto',sans-serif;
+    color: #bdbdbd;
+}
+
+a {
+    color: yellow;
+}
+
