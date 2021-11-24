@@ -1,0 +1,33 @@
+
+* {
+
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+
+main {
+    padding: 24px;
+    background: cover;
+    background-color: deeppink;
+}
+
+.main-button {
+    color: white;
+    border: 0;
+    padding: 24px;
+    font-size: 24px;
+    border-radius: 12px;
+    background-color: darkolivegreen;
+    transition: .8s;
+}
+
+.main-button:hover {
+    background-color: darkorange;
+}
+
+@keyframes ghost {
+    
+}
